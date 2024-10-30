@@ -1,0 +1,7 @@
+torch
+bitsandbytes
+accelerate
+datasets
+trl
+peft
+tensorboard
